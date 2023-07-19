@@ -1,5 +1,5 @@
 # Jukwaa la Maoni
-
+[Logo](!https://github.com/jukwaalamaoni/JukwaaLaMaoni/blob/main/images/Logo.png)
 
 Jukwaa la Maoni is a platform dedicated to reviewing government offices in Kenya. It provides a space for citizens to express their opinions, share experiences, and contribute to the assessment of government representatives. The platform aims to promote transparency, accountability, and citizen participation in governance.
 
