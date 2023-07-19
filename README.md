@@ -1,8 +1,7 @@
 # Jukwaa la Maoni
 
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
-Jukwaa la Maoni is a platform dedicated to reviewing government officials in Kenya. It provides a space for citizens to express their opinions, share experiences, and contribute to the assessment of government representatives. The platform aims to promote transparency, accountability, and citizen participation in governance.
+Jukwaa la Maoni is a platform dedicated to reviewing government offices in Kenya. It provides a space for citizens to express their opinions, share experiences, and contribute to the assessment of government representatives. The platform aims to promote transparency, accountability, and citizen participation in governance.
 
 ## Features
 
@@ -23,8 +22,8 @@ Jukwaa la Maoni is a platform dedicated to reviewing government officials in Ken
 
 ### Prerequisites
 
-- Python (version X.X.X)
-- MySQL (version X.X.X)
+- Python (version 3.X.X)
+- MySQL (version 8.X.X)
 
 ### Installation
 
